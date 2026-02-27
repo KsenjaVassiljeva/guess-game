@@ -23,4 +23,4 @@
 ## Как запустить
 1. Клонируйте репозиторий:  
 ```bash
-git clone https://github.com/username/guess-game.git
+git clone https://github.com/KsenjaVassiljeva/guess-game.git
